@@ -1,86 +1,97 @@
-# 👋 Hi, I'm OMONUX
+# OMONUX
 
-### 🚀 Builder • Cybersecurity Learner • Full-Stack Developer • AI & Automation Explorer
+### AI • Automation • Cybersecurity • Full-Stack Development
 
-I build practical technology projects focused on **cybersecurity, web development, automation, artificial intelligence, and developer tools**.
+Building practical software at the intersection of **artificial intelligence, automation, cybersecurity, and modern web applications**.
 
-I'm currently building **OMONUX**, an autonomous market-intelligence and automated trading project designed around real-time market data, deterministic signals, AI-assisted analysis, risk controls, paper trading, and exchange integrations.
+> **Current flagship project:** OMONUX — an autonomous market-intelligence and automated trading platform.
 
 ---
 
-## 🧠 What I'm Building
+## 🚀 Featured Project
 
-### ⚡ OMONUX Auto-Trading Engine
-A full-stack trading system with:
+### OMONUX Auto-Trading Engine
+
+A full-stack trading system designed around a controlled pipeline:
+
+**Market Data → Signal Engine → AI Analysis → Risk Controls → Execution → Monitoring → Audit Trail**
+
+Key areas include:
+
 - Real-time market data
-- Technical signal engine
-- AI-assisted analysis with OpenAI and Gemini
+- Technical signal generation
+- OpenAI and Google Gemini integration
 - Risk management and position sizing
 - Paper trading
 - Exchange adapters
-- Automated execution with safety gates
-- Trade monitoring and audit events
+- Automated execution with explicit safety gates
+- Position monitoring and audit events
 
-> OMONUX is a software project, not a promise of trading profits. Live trading is kept behind explicit safety controls.
+**Project repository:** [`omonux/omonu-emmanuel`](https://github.com/omonux/omonu-emmanuel)
+
+> OMONUX is software for automated market analysis and execution. Trading involves financial risk, and the system does not guarantee profits.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technology
 
 **Languages**
-- JavaScript
-- Python
-- HTML
-- CSS
 
-**Development**
-- Node.js
-- Express
-- REST APIs
-- WebSockets
-- Git & GitHub
+`JavaScript` `Python` `HTML` `CSS`
+
+**Backend & Web**
+
+`Node.js` `Express` `REST APIs` `WebSockets`
 
 **AI & Automation**
-- OpenAI APIs
-- Google Gemini APIs
-- Automation workflows
-- Data and signal processing
 
-**Cybersecurity Interests**
-- Ethical hacking
-- OSINT
-- Web security
-- Penetration testing
-- Security automation
+`OpenAI APIs` `Google Gemini APIs` `Automation` `Signal Processing`
+
+**Security**
+
+`Web Security` `OSINT` `Ethical Hacking` `Security Automation`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 📌 Projects
+## 🔐 Security & Responsible Development
 
-- 🤖 **OMONUX** — Autonomous market-intelligence and trading engine
-- 🛡️ **PhishGuard** — Real-time URL security scanning project
-- 🌐 **Web Projects** — Experiments in full-stack development and automation
+I am interested in building technology that is useful, secure, and practical. Current areas of focus include:
+
+- Secure application design
+- Cybersecurity learning
+- Security automation
+- API security
+- Responsible AI integration
+- Safe automated execution
+
+---
+
+## 📂 Selected Work
+
+- **OMONUX** — AI-assisted market intelligence and automated trading
+- **PhishGuard** — real-time URL security scanning
+- **Web Projects** — full-stack applications, experiments, and automation tools
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-quality software
-- Learning advanced cybersecurity
-- Improving full-stack development skills
-- Exploring AI-powered applications
-- Creating useful open-source tools
+- Building production-quality applications
+- Expanding cybersecurity skills
+- Developing AI-powered tools
+- Improving full-stack engineering
+- Turning ideas into usable software
 
 ---
 
-## 📊 GitHub
+## 🤝 Connect & Explore
 
-I use GitHub to document my projects, experiments, and development journey.
+Most of my work is published here on GitHub. Start with the **OMONUX** repository to see what I am currently building.
 
-If you find something useful here, feel free to explore the repositories and follow the work.
-
----
-
-### ⚡ Build. Learn. Secure. Automate.
+### Build. Learn. Secure. Automate.
 
 **OMONUX**
