@@ -1,97 +1,142 @@
-# OMONUX
+<div align="center">
 
-### AI • Automation • Cybersecurity • Full-Stack Development
+<img src="./profile-header.svg" alt="OMONUX" width="100%" />
 
-Building practical software at the intersection of **artificial intelligence, automation, cybersecurity, and modern web applications**.
+# EMMANUEL OMONU
+### AI Systems • Cybersecurity • Automation • Full-Stack Engineering
 
-> **Current flagship project:** OMONUX — an autonomous market-intelligence and automated trading platform.
+**Building intelligent, secure, and practical software from idea to production.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-omonux-111827?style=for-the-badge&logo=github)](https://github.com/omonux)
+[![OMONUX](https://img.shields.io/badge/Project-OMONUX-00E5FF?style=for-the-badge)](https://github.com/omonux/omonu-emmanuel)
+[![Security](https://img.shields.io/badge/Focus-Cybersecurity-0EA5E9?style=for-the-badge)](https://github.com/omonux)
+[![AI](https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=for-the-badge)](https://github.com/omonux)
+
+</div>
 
 ---
 
-## 🚀 Featured Project
+## ⚡ What I Build
 
-### OMONUX Auto-Trading Engine
+I build software at the intersection of **AI, automation, cybersecurity, and full-stack engineering** — with a focus on systems that are practical, secure, observable, and designed to evolve.
 
-A full-stack trading system designed around a controlled pipeline:
+```text
+IDEA
+  ↓
+ARCHITECTURE
+  ↓
+ENGINEERING
+  ↓
+SECURITY
+  ↓
+AI + AUTOMATION
+  ↓
+REAL-WORLD SOFTWARE
+```
 
-**Market Data → Signal Engine → AI Analysis → Risk Controls → Execution → Monitoring → Audit Trail**
+## 🚀 Flagship Project — OMONUX
 
-Key areas include:
+**OMONUX** is an AI-assisted automated market-intelligence and trading platform built around controlled execution rather than letting an AI model directly make unrestricted exchange decisions.
 
-- Real-time market data
-- Technical signal generation
-- OpenAI and Google Gemini integration
-- Risk management and position sizing
-- Paper trading
-- Exchange adapters
+```text
+REAL-TIME MARKET DATA
+        ↓
+SIGNAL ENGINE
+        ↓
+AI ANALYSIS
+(OpenAI + Gemini)
+        ↓
+RISK GUARDIAN
+        ↓
+EXECUTION
+        ↓
+POSITION MONITORING
+        ↓
+AUDIT TRAIL
+```
+
+### Core engineering areas
+
+- Real-time market data and technical signals
+- OpenAI and Google Gemini integrations
+- Deterministic risk controls and position sizing
+- Paper trading and exchange adapters
 - Automated execution with explicit safety gates
-- Position monitoring and audit events
+- Authentication, encrypted credentials, rate limiting, and security headers
+- Monitoring, notifications, and audit events
 
-**Project repository:** [`omonux/omonu-emmanuel`](https://github.com/omonux/omonu-emmanuel)
+**Explore OMONUX →** https://github.com/omonux/omonu-emmanuel
 
-> OMONUX is software for automated market analysis and execution. Trading involves financial risk, and the system does not guarantee profits.
-
----
-
-## 🛠️ Technology
-
-**Languages**
-
-`JavaScript` `Python` `HTML` `CSS`
-
-**Backend & Web**
-
-`Node.js` `Express` `REST APIs` `WebSockets`
-
-**AI & Automation**
-
-`OpenAI APIs` `Google Gemini APIs` `Automation` `Signal Processing`
-
-**Security**
-
-`Web Security` `OSINT` `Ethical Hacking` `Security Automation`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+> Trading software involves financial risk. OMONUX does not guarantee profits.
 
 ---
 
-## 🔐 Security & Responsible Development
+## 🛡️ Cybersecurity Mindset
 
-I am interested in building technology that is useful, secure, and practical. Current areas of focus include:
+Security is part of the architecture, not an afterthought.
 
-- Secure application design
-- Cybersecurity learning
+- Secure API design
+- Authentication and credential protection
+- Web and application security
 - Security automation
-- API security
+- OSINT and ethical security research
 - Responsible AI integration
-- Safe automated execution
+- Defensive engineering and risk controls
 
 ---
 
-## 📂 Selected Work
+## 🧠 Technology Stack
 
-- **OMONUX** — AI-assisted market intelligence and automated trading
-- **PhishGuard** — real-time URL security scanning
-- **Web Projects** — full-stack applications, experiments, and automation tools
-
----
-
-## 🎯 Current Focus
-
-- Building production-quality applications
-- Expanding cybersecurity skills
-- Developing AI-powered tools
-- Improving full-stack engineering
-- Turning ideas into usable software
+| Area | Technologies |
+|---|---|
+| **Languages** | JavaScript · Python · HTML · CSS |
+| **Backend** | Node.js · Express · REST APIs · WebSockets |
+| **AI** | OpenAI APIs · Google Gemini APIs |
+| **Automation** | Signal processing · workflow automation · scheduled systems |
+| **Security** | API security · authentication · secure credential handling |
+| **Trading** | Market data · paper trading · exchange adapters · risk controls |
+| **Tools** | Git · GitHub · VS Code · Linux |
 
 ---
 
-## 🤝 Connect & Explore
+## 📌 Selected Work
 
-Most of my work is published here on GitHub. Start with the **OMONUX** repository to see what I am currently building.
+### 🔹 OMONUX
+AI-assisted market intelligence and automated trading infrastructure.
 
-### Build. Learn. Secure. Automate.
+### 🔹 PhishGuard
+Real-time URL security scanning and defensive cybersecurity tooling.
 
-**OMONUX**
+### 🔹 Web & Automation Projects
+Full-stack applications, APIs, automation experiments, and practical developer tools.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omonux&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=9CA3AF" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonux&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=9CA3AF" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+**Build. Learn. Secure. Automate.**
+
+I am continuously improving my engineering skills, exploring AI-powered systems, strengthening cybersecurity knowledge, and turning ambitious ideas into working software.
+
+---
+
+<div align="center">
+
+### OMONUX
+**Intelligence • Security • Automation • Engineering**
+
+*Building systems that turn ideas into reality.*
+
+</div>
